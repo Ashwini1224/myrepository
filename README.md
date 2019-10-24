@@ -1,2 +1,2 @@
 # myrepository
-My new repository
+My new repository in master branch
